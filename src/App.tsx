@@ -628,24 +628,24 @@ function ContactSection() {
             {[
               {
                 label: 'Email',
-                value: 'your-email@example.com',
-                href: 'mailto:your-email@example.com',
+                value: 'niteshb1937@gail.com',
+                href: 'mailto:niteshb1937@gmail.com',
                 icon: (
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.8} d="M3 7.5 12 13l9-5.5M5 19h14a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2Z" />
                 ),
               },
               {
                 label: 'GitHub',
-                value: 'github.com/your-username',
-                href: 'https://github.com/your-username',
+                value: 'github.com/nitesh1937',
+                href: 'https://github.com/nitesh1937',
                 icon: (
                   <path d="M12 .5C5.65.5.5 5.65.5 12A11.5 11.5 0 0 0 8.36 22.93c.58.1.79-.25.79-.57v-2.02c-3.2.7-3.88-1.36-3.88-1.36-.52-1.33-1.28-1.69-1.28-1.69-1.04-.71.08-.7.08-.7 1.15.08 1.75 1.18 1.75 1.18 1.02 1.75 2.67 1.25 3.32.95.1-.74.4-1.25.72-1.54-2.56-.29-5.26-1.28-5.26-5.72 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.46.11-3.04 0 0 .97-.31 3.17 1.18a11.03 11.03 0 0 1 5.77 0c2.2-1.5 3.16-1.18 3.16-1.18.63 1.58.24 2.75.12 3.04.74.81 1.18 1.84 1.18 3.1 0 4.45-2.7 5.42-5.28 5.71.41.36.78 1.06.78 2.13v3.15c0 .31.21.68.8.57A11.5 11.5 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z" />
                 ),
               },
               {
                 label: 'LinkedIn',
-                value: 'linkedin.com/in/your-username',
-                href: 'https://linkedin.com/in/your-username',
+                value: 'linkedin.com/in/nitesh1937',
+                href: 'https://linkedin.com/in/nitesh1937',
                 icon: (
                   <path d="M4.98 3.5A1.48 1.48 0 1 1 5 6.46 1.48 1.48 0 0 1 4.98 3.5ZM3.75 8.25h2.5v12h-2.5v-12Zm6.25 0h2.4v1.64h.03c.33-.63 1.15-1.92 3.3-1.92 3.53 0 4.19 2.2 4.19 5.07v7.21h-2.5v-6.39c0-1.52-.03-3.48-2.13-3.48-2.14 0-2.47 1.67-2.47 3.37v6.5H10v-12Z" />
                 ),
