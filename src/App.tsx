@@ -9,7 +9,7 @@ declare global {
 
 const TRACKS = [
   { title: 'Bohemian Rhapsody', artist: 'Queen', duration: '5:55', youtubeId: 'fJ9rUzIMcZQ' },
-  { title: 'Comfortably Numb', artist: 'Pink Floyd', duration: '6:23', youtubeId: 'vfrJShLzLG8' },
+  { title: 'Comfortably Numb', artist: 'Pink Floyd', duration: '6:23', youtubeId: 'TqUE9XZZ0HQ' },
   { title: 'Hotel California', artist: 'Eagles', duration: '6:30', youtubeId: 'BciS5krYL80' },
   { title: 'Wish You Were Here', artist: 'Pink Floyd', duration: '5:34', youtubeId: 'IXdNnw99-Ic' },
   { title: 'Stairway to Heaven', artist: 'Led Zeppelin', duration: '8:02', youtubeId: 'QkF3oxziUI4' },
@@ -50,7 +50,7 @@ const PROJECT_SLOTS = [
 const BLOG_SLOTS = [
   {
     date: 'Coming soon',
-    title: 'Your first blog post goes here',
+    title: 'Demo Title',
     summary: 'A space for essays, study notes, build logs, or reflections you want to publish later.',
   },
   {
